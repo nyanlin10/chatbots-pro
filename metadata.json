@@ -1,0 +1,7 @@
+{
+  "name": "Service Pro AI",
+  "description": "A fully functional AI chatbot with admin panel, local knowledge base, and Gemini AI integration for fallback responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
